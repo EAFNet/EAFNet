@@ -1,4 +1,11 @@
-# EAFNet
-This repo is the official implementation of ["EAFNet:  Extraction-Amplification-Fusion Network for Tiny Cracks Detection"] (Submitted to Engineering Applications of Artificial Intelligence)
-
-T-Crack dataset and C-Crack dataset will be published soon.
+# Tiny Crack (T-CRACK) Dataset & Cross-scale Crack (C-CRACK) Dataset
+<div align="center">
+  <img src="https://github.com/EAFNet/EAFNet/blob/main/Sample%20gallery%20of%20T-CRACK%20dataset.png">
+  Sample gallery of T-CRACK dataset
+</div>
+<br>
+<br>
+<div align="center">
+  <img src="https://github.com/EAFNet/EAFNet/blob/main/Sample%20gallery%20of%20C-CRACK%20dataset.png">
+  Sample gallery of C-CRACK dataset
+</div>
